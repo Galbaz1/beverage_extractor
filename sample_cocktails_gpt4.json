@@ -1,0 +1,75 @@
+[
+    {
+        "name": "THE OLD FASHIONED",
+        "ingredients": [
+            "Bulleit bourbon",
+            "maraschino cherry",
+            "orange peel",
+            "sugar",
+            "Angostura bitters"
+        ],
+        "price": 12.0,
+        "ingredient_notes": [
+            "Bulleit bourbon provides a robust base with notes of oak, vanilla, and a hint of spice.",
+            "Maraschino cherry offers a touch of sweetness and a bright, fruity undertone.",
+            "Orange peel adds a zesty citrus aroma and a subtle bitterness that complements the bourbon.",
+            "Sugar balances the bitterness from the orange peel and Angostura bitters, and adds a smooth, sweet finish.",
+            "Angostura bitters contribute complexity with their herbaceous and slightly bitter flavor profile."
+        ],
+        "tasting_notes": [
+            "The Old Fashioned is a classic cocktail that delivers warmth from the bourbon, enhanced by the subtle sweetness of the maraschino cherry and the rich aromatic bitterness of the Angostura bitters.",
+            "The addition of the orange peel infuses a citrusy brightness that ties the drink's flavors together, while the sugar smooths out the edges for a well-rounded sipping experience.",
+            "Served in a rocks glass, it's a cocktail that invites lingering appreciation, with a deep amber color that hints at its storied past and robust character."
+        ],
+        "category": "Rocks"
+    },
+    {
+        "name": "SMOKED FASHIONED",
+        "ingredients": [
+            "Bulleit bourbon",
+            "maraschino cherry",
+            "orange peel",
+            "sugar",
+            "Angostura bitters"
+        ],
+        "price": 13.0,
+        "ingredient_notes": [
+            "Bulleit bourbon brings a bold, spicy character with hints of maple and nutmeg.",
+            "Maraschino cherry provides a hint of sweetness and a bright, fruity note to complement the bourbon.",
+            "Orange peel adds a citrusy aroma and a delicate bitterness that enhances the overall complexity of the cocktail.",
+            "Sugar balances the spirits and bitters, contributing to a smoother mouthfeel.",
+            "Angostura bitters offer a layer of spice and depth, with subtle herbal undertones."
+        ],
+        "tasting_notes": [
+            "On the nose, the Smoked Fashioned offers a rich symphony of smoky, woody aromas intertwined with subtle citrus and cherry hints.",
+            "The first sip reveals a robust bourbon flavor profile with a pleasant sweetness from the maraschino cherry.",
+            "The sugar provides a smooth texture, while the Angostura bitters introduce a layer of complex spiciness that lingers on the palate.",
+            "The smokiness from the smoked glass adds a unique cowboy kick, leaving an enduring, warm finish reminiscent of a fireside gathering."
+        ],
+        "category": "Rocks"
+    },
+    {
+        "name": "SAZERAC",
+        "ingredients": [
+            "Bulleit Rye whiskey",
+            "absinthe",
+            "Peychaud bitters",
+            "lemon peel",
+            "sugar"
+        ],
+        "price": 13.0,
+        "ingredient_notes": [
+            "Bulleit Rye whiskey brings a bold, spicy character with undertones of vanilla and oak.",
+            "Absinthe adds a complex herbal anise flavor with a hint of bitterness.",
+            "Peychaud bitters contribute a unique, slightly sweet and floral aroma with light spiciness.",
+            "Lemon peel provides a refreshing, citrusy zing that cuts through and balances the sweetness.",
+            "Sugar adds sweetness that complements the whiskey and balances the bitterness of the bitters and absinthe."
+        ],
+        "tasting_notes": [
+            "On the palate, the SAZERAC delivers a complex interplay of spiciness from the rye whiskey and a subtle herbal bitterness from the absinthe.",
+            "The sweetness of the sugar is well-tempered by the citrus oils from the lemon peel, providing a rounded and nuanced sip.",
+            "The cocktail has a smooth mouthfeel with an aromatic and warm aftertaste that lingers pleasantly, featuring the oak and vanilla notes of the whiskey."
+        ],
+        "category": "Rocks"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "name": "THE OLD FASHIONED",
+        "ingredients": [
+            "Bulleit bourbon",
+            "maraschino cherry",
+            "orange peel",
+            "sugar",
+            "Angostura bitters"
+        ],
+        "price": 12.0,
+        "ingredient_notes": [
+            "Bulleit bourbon: Rich, oaky, and slightly spicy with a hint of caramel",
+            "Maraschino cherry: Sweet, tart, and slightly floral",
+            "Orange peel: Citrusy, zesty, and aromatic",
+            "Sugar: Sweetness",
+            "Angostura bitters: Spicy, herbal, and aromatic"
+        ],
+        "tasting_notes": [
+            "The Old Fashioned is a classic cocktail with a rich, oaky bourbon base complemented by the sweetness of maraschino cherry and sugar. The aroma is a delightful mix of oak, citrus, and subtle floral notes. On the palate, the initial sweetness gives way to a warming spiciness from the bourbon and bitters, with a hint of citrus from the orange peel. The finish is smooth and satisfying, leaving a lingering warmth and a touch of aromatic bitterness.",
+            "The aroma is a tempting blend of oak, caramel, and citrus, followed by a subtle hint of floral sweetness. The taste profile is a balanced combination of sweet, spicy, and citrus flavors, with a smooth mouthfeel and a lingering, warming finish.",
+            "The Old Fashioned is a timeless rocks cocktail with a robust flavor profile and a satisfyingly complex taste experience."
+        ],
+        "category": "Rocks"
+    },
+    {
+        "name": "SMOKED FASHIONED",
+        "ingredients": [
+            "Bulleit bourbon",
+            "maraschino cherry",
+            "orange peel",
+            "sugar",
+            "Angostura bitters"
+        ],
+        "price": 13.0,
+        "ingredient_notes": [
+            "Bulleit bourbon: Rich, oaky, and caramel notes with a hint of vanilla",
+            "Maraschino cherry: Sweet and slightly tangy with a hint of almond",
+            "Orange peel: Citrusy and aromatic with a slight bitterness",
+            "Sugar: Adds sweetness and a subtle caramel note",
+            "Angostura bitters: Spicy, herbal, and aromatic with a hint of cinnamon and clove"
+        ],
+        "tasting_notes": [
+            "The Smoked Fashioned offers a rich and smoky drinking experience with a true cowboy kick. The Bulleit bourbon brings a velvety smoothness with rich oaky and caramel notes enhanced by a hint of vanilla. The sweetness of maraschino cherry and sugar balances the bold bourbon, while the orange peel adds citrusy brightness with a touch of aromatic bitterness. The smokiness and spiciness from the Angostura bitters create a complex and lingering finish, leaving a warm and satisfying aftertaste.",
+            "The aroma is invitingly rich with smoky bourbon and sweet cherry, complemented by the zesty, citrusy notes of orange peel. The taste profile is well-balanced, offering a velvety texture, sweet caramel, and a touch of spiciness from the bitters, leading to a smooth and satisfying finish."
+        ],
+        "category": "Rocks"
+    },
+    {
+        "name": "SAZERAC",
+        "ingredients": [
+            "Bulleit Rye whiskey",
+            "absinthe",
+            "Peychaud bitters",
+            "lemon peel",
+            "sugar"
+        ],
+        "price": 13.0,
+        "ingredient_notes": [
+            "Bulleit Rye whiskey: Rich, spicy, and oaky notes with a smooth finish.",
+            "Absinthe: Anise, fennel, and floral aromas with a distinct herbal flavor.",
+            "Peychaud bitters: Aromas of floral and herbal undertones with a slightly sweet and bitter flavor.",
+            "Lemon peel: Citrusy and zesty notes that provide a refreshing aroma and flavor.",
+            "Sugar: Sweetness with subtle caramel undertones."
+        ],
+        "tasting_notes": [
+            "The Sazerac exudes a symphony of complex flavors, with the spicy and oaky notes of the Bulleit Rye whiskey harmonizing beautifully with the herbal and anise flavors of the absinthe. The Peychaud bitters add a delicate balance of floral and bitter undertones, while the citrusy zest of the lemon peel and the sweetness of the sugar round out the flavor profile. The cocktail offers a rich, smooth mouthfeel and finishes with a lingering warmth and subtle sweetness.",
+            "Aroma: The aroma is rich with earthy, spicy, and herbal notes, accompanied by a hint of citrus and a subtle sweetness. The interplay of anise and oak creates an intriguing olfactory experience.",
+            "Taste: The first sip reveals a sophisticated blend of spice, herbs, and citrus, with a touch of sweetness that evolves into a complex and harmonious combination of flavors. The finish is long and satisfying, leaving a warm, lingering sensation on the palate."
+        ],
+        "category": "Rocks"
+    }
+]
